@@ -4,3 +4,7 @@ Repositorio para guardar todos los ejercicios de programación con tecnologías 
 # Para correr el reto express 2
 npm install
 npm start
+
+# Para correr el EjercicioMongoDB
+npm install
+npm start
